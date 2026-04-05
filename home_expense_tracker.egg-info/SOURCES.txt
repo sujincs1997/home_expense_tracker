@@ -1,0 +1,15 @@
+MANIFEST.in
+README.md
+pyproject.toml
+expense_tracker/database.py
+expense_tracker/main.py
+expense_tracker/models.py
+expense_tracker/run.py
+expense_tracker/schemas.py
+expense_tracker/static/index.html
+home_expense_tracker.egg-info/PKG-INFO
+home_expense_tracker.egg-info/SOURCES.txt
+home_expense_tracker.egg-info/dependency_links.txt
+home_expense_tracker.egg-info/entry_points.txt
+home_expense_tracker.egg-info/requires.txt
+home_expense_tracker.egg-info/top_level.txt
